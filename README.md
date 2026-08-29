@@ -11,7 +11,7 @@ Welcome! This repository documents my ongoing hands-on experiments, virtual mach
 * **Primary Tools:** Wireshark, Nmap, Linux Bash/CLI, TryHackMe Roadmap
 
 ## 📁 Documented Projects & Experiments
-1. **[Virtualization & Kali Linux Setup](./labs/01-virtualbox-kali)**  
+1. **[Virtualization & Kali Linux Setup](./homelab-documentation/virtualization-kali-setup.md)**  
    *Configured VirtualBox hypervisor, allocated virtual resources, and established basic Linux terminal navigation.*
 2. **[Network Scanning with Nmap](./labs/02-nmap-basics)** *(In Progress)*  
    *Exploring port scanning, service detection flags, and network mapping fundamentals.*
