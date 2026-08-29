@@ -7,7 +7,7 @@ Welcome! This repository documents my ongoing hands-on experiments, virtual mach
 ## 🛠️ Lab Infrastructure Overview
 * **Hypervisor:** Oracle VirtualBox
 * **Guest Operating Systems:** Kali Linux 2024.x, Windows 11 Enterprise
-* **Host Hardware:** Custom Build (AMD Ryzen 7, 16GB RAM, Windows 11 Host OS)
+* **Host Hardware:** Custom Build (AMD Ryzen 7, 32GB RAM, Windows 11 Host OS)
 * **Primary Tools:** Wireshark, Nmap, Linux Bash/CLI, TryHackMe Roadmap
 
 ## 📁 Documented Projects & Experiments
