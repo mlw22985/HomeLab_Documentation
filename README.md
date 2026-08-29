@@ -13,7 +13,7 @@ Welcome! This repository documents my ongoing hands-on experiments, virtual mach
 ## 📁 Documented Projects & Experiments
 1. **[Virtualization & Kali Linux Setup](/virtualization_linux_setup.md)**  
    *Configured VirtualBox hypervisor, allocated virtual resources, and established basic Linux terminal navigation.*
-2. **[Network Scanning with Nmap](./labs/02-nmap-basics)** *(In Progress)*  
+2. **[Network Scanning with Nmap](./labs/02-nmap-basics)** 
    *Exploring port scanning, service detection flags, and network mapping fundamentals.*
 
 ## 🎯 Learning Objectives & Target Certifications
