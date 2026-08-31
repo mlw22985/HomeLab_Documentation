@@ -19,6 +19,6 @@ Welcome! This repository documents my ongoing hands-on experiments, virtual mach
 ## 🎯 Learning Objectives & Target Certifications
 - [x] Set up dual-OS virtualized environment
 - [x] Practice basic Linux CLI commands (`ls`, `cd`, `grep`, `chmod`)
-- [x] Complete TryHackMe "Pre-Security" Path
+- [x] Complete TryHackMe "Pre-Security" Path 8/31/2026
 - [ ] Complete TryHackMe "Cyber Security 101" Path
 - [ ] CompTIA Security+ (Target Completion: Q4)
